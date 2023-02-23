@@ -2,7 +2,8 @@ Package: heron
 Title: Heron package 
 Version: 0.0.0.9000
 Authors@R: 
-    person("Coralie", "DORE", "coralie.dore@etu.univ-nantes.fr", role = c("aut", "cre"))
+    person("Coralie", "DORE", "coralie.dore@etu.univ-nantes.fr", role = c("aut", "cre"),
+    comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: The package calculates the area of a triangle according to the Heron's formula.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
